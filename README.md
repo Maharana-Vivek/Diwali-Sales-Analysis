@@ -16,11 +16,6 @@ This project analyzes *sales data* to extract valuable insights and visualize ke
 ## 📊 Dashboard Preview:
 ![Sales Dashboard](sales.png)
 
-## 🚀 How to Use:
-1. Download the Excel file and dataset.
-2. Explore the interactive dashboards.
-3. Gain insights to improve sales and marketing strategies.
-
 🔗 *Check the full project here:* [https://github.com/Maharana-Vivek]  
 📩 Feel free to connect for discussions on *data analysis & visualization*! 🚀  
 
